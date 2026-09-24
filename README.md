@@ -1,45 +1,5 @@
 # 👋 Hi, I'm Sinchana Poojary
-<div align="center">
 
-<h3><code>reddy895@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td width="42%" valign="top">
-
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=reddy895&theme=github-dark&style=terminal&mode=light"/>
-
-<img src="https://www.gitskins.com/api/section/portrait?username=reddy895&theme=github-dark&style=terminal&mode=dark" width="100%"/>
-
-</picture>
-
-</td>
-
-<td width="58%" valign="top">
-
-<picture>
-<source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=reddy895&theme=github-dark&style=terminal&label=PRAVEEN+REDDY&mode=light"/>
-
-<img src="https://www.gitskins.com/api/section/wordmark?username=reddy895&theme=github-dark&style=terminal&label=PRAVEEN+REDDY&mode=dark" width="100%"/>
-
-</picture>
-
-</td>
-</tr>
-</table>
-
-**AI/ML Engineer • Computer Vision • LLMs • RAG • Generative AI**
-
-<a href="https://www.linkedin.com/in/praveen-reddy-21b101241/">
-LinkedIn
-</a>
-•
-<a href="mailto:rexie.codes@gmail.com">
-Email
-</a>
-
-</div>
 ### 🚀 Full Stack Developer | AI/ML Enthusiast | Building Real-World Solutions
 
 I'm an Engineering student passionate about **Full Stack Development, Artificial Intelligence, Machine Learning, and Deep Learning**. I enjoy building practical applications that combine modern web technologies with AI and data-driven solutions.
