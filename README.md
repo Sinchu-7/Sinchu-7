@@ -60,7 +60,7 @@ Full Stack Developer — Zidio Development (Aug 2026 – Oct 2026)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sinch-7&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Sinchu-7&theme=tokyonight&hide_border=true" />
 
 </div>
 
