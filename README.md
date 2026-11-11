@@ -55,16 +55,16 @@ Full Stack Developer — Zidio Development (Aug 2026 – Oct 2026)
 ```
 
 ```bash
-> help --github
+> help --github Contri
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinchu-7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchu-7&layout=compact&theme=transparent&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Sinch-7&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sinchu-7&theme=transparent&hide_border=true)
+</div>
 
----
+
 
 ```bash
 > help --contact
