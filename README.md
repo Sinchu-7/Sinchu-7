@@ -1,7 +1,3 @@
-```bash
-> whoami
-```
-
 # SINCHANA POOJARY
 
 ```bash
