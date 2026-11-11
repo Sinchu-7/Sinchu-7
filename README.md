@@ -1,181 +1,103 @@
-# 👋 Hi, I'm Sinchana Poojary
+```bash
+> whoami
+```
 
-### 🚀 Full Stack Developer | AI/ML Enthusiast | Building Real-World Solutions
+# SINCHANA POOJARY
 
-I'm an Engineering student passionate about **Full Stack Development, Artificial Intelligence, Machine Learning, and Deep Learning**. I enjoy building practical applications that combine modern web technologies with AI and data-driven solutions.
-
----
-
-## 🧑‍💻 About Me
-
-* 🎓 Information Science & Engineering student
-* 💻 Full Stack Developer
-* 🤖 AI/ML & Deep Learning Enthusiast
-* 📊 Interested in Data Visualization and Analytics
-* 🔍 Exploring RAG and AI-powered applications
-* 🏆 Winner of **AI-Powered Solutions for Real-World Problems – 2026**
-* 🚀 Hackathon participant
-* 🌱 Always learning and building new projects
+```bash
+> role: Full Stack Developer | AI/ML Enthusiast
+> education: Information Science & Engineering
+> interests: Artificial Intelligence, Deep Learning, RAG & Data Analytics
+> mindset: Learn. Build. Experiment. Repeat.
+```
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+> help --skills
+```
 
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-**AI • Machine Learning • Deep Learning • RAG**
-
-### 📊 Data Visualization
-
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Recharts-FF6384?style=for-the-badge" />
-</p>
-
-### 🔧 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- **Languages:** Python, C, C++, Java
+- **Database:** MongoDB, SQL
+- **AI/ML:** Artificial Intelligence, Machine Learning, Deep Learning, RAG
+- **Data Visualization:** Power BI, Tableau
+- **Development:** Full Stack Development
 
 ---
 
-## 🚀 Featured Projects
+```bash
+> help --projects
+```
 
-### 🔄 LOOP — Customer Review Analytics Platform
+**01. LOOP — Customer Review Analytics**
 
-A platform designed to help large businesses analyze customer reviews and gain useful insights.
+Customer feedback analytics platform with CSV processing, interactive dashboards and review insights.
 
-* 📄 Processes customer review data using CSV files
-* 📊 Creates interactive analytics dashboards
-* 📈 Visualizes customer review insights using Recharts
+**02. Women Safety CCTV Surveillance**
 
----
+AI-powered surveillance system analyzing human body movements using 17 keypoints.
 
-### 🛡️ Women Safety CCTV Surveillance System
+**03. Plant Disease Detector**
 
-An AI-powered surveillance system designed to analyze human body movements for women's safety.
+Deep learning application for identifying plant diseases from images.
 
-* 👤 Analyzes human body movements
-* 🔗 Uses **17 body connections/keypoints**
-* 🎥 Designed for real-time CCTV surveillance
+**04. Emotion Analysis**
 
----
+Deep learning-based human emotion classification.
 
-### 🌱 Plant Disease Detector
+**05. Breast Cancer Detection**
 
-A deep learning-based system designed to identify diseases from plant images.
-
-* 🖼️ Analyzes plant images
-* 🧠 Uses deep learning for disease classification
-* 🌾 Supports early plant disease identification
+BreakHis histopathology image classification using deep learning and MobileNetV2.
 
 ---
 
-### 😊 Emotion Analysis Using Deep Learning
+```bash
+> help --experience
+```
 
-A deep learning project designed to analyze and classify human emotions.
-
-* 🧠 Uses deep learning techniques
-* 🔍 Analyzes patterns associated with emotions
-* 😊 Classifies different emotional states
-
----
-
-## 🏆 Achievements
-
-🏆 **Winner — AI-Powered Solutions for Real-World Problems, 2026**
+- **OCC Analyst** — L2M Railways (Mar 2026 – Present)
+- **Full Stack Developer** — Zidio Development (Aug 2026 – Oct 2026)
 
 ---
 
-## 📜 Certifications
+```bash
+> help --achievements
+```
 
-* ☁️ **NPTEL — Cloud Computing**
-* 🧠 **Simplilearn — TensorFlow for Beginners**
+- Winner — AI-Powered Solutions for Real-World Problems (2026)
+- NPTEL — Cloud Computing
+- Simplilearn — TensorFlow for Beginners
 
----
+```bash
+> help --hackathons
+```
 
-## 💡 Hackathons
-
-* 🏆 **GeeksforGeeks Hackathon — 2026**
-* 🚀 **EPOCH — 2026**
-* 💻 **Hack Buzz — 2026**
-
----
-
-## 💼 Experience
-
-### OCC Analyst — L2M Railways
-
-**March 2026 – Present**
-
-Monitoring railway operations, analyzing operational data, and supporting efficient railway services.
-
-### Full Stack Developer — Zidio Development
-
-**August 2026 – October 2026**
-
-Contributed to frontend and backend development of responsive web applications.
+- GeeksforGeeks Hackathon — 2026
+- EPOCH — 2026
+- Hack Buzz — 2026
 
 ---
 
-## 📊 GitHub Stats
+```bash
+> help --github
+```
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sinchu-7&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sinchu-7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Sinchu-7&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinchu-7&layout=compact&theme=transparent&hide_border=true)
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Sinchu-7&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Sinchu-7&theme=transparent&hide_border=true)
 
 ---
 
-## 📫 Connect With Me
+```bash
+> help --contact
+```
 
-<p>
-<a href="https://github.com/Sinchu-7">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+- GitHub: [github.com/Sinchu-7](https://github.com/Sinchu-7)
 
-<a href="https://www.linkedin.com/in/sinchu-poojary">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+```bash
+> echo "Thanks for visiting my profile!"
+> exit
+```
 
-<a href="mailto:sinchhh09@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-### 💭 *"Building, learning, and turning ideas into real-world solutions."*
-
-⭐ **Feel free to explore my repositories and projects!**
