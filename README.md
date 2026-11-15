@@ -20,11 +20,20 @@
 ```bash
 > help --projects
 
->> LOOP: Customer review analytics platform with interactive dashboards and CSV processing.
->> Women Safety CCTV: AI-powered surveillance using human body movement detection and 17 keypoints.
->> Plant Disease Detector: Deep learning-based plant disease classification from images.
->> Emotion Analysis: Human emotion classification using deep learning.
->> Breast Cancer Detection: BreakHis histopathology image classification using MobileNetV2.
+>> [LOOP](https://github.com/Sinchu-7/Loop)
+   Customer review analytics platform with interactive dashboards and CSV processing.
+
+>> [Women Safety CCTV](https://github.com/Sinchu-7/Women_Safety)
+   AI-powered surveillance using human body movement detection and 17 keypoints.
+
+>> [PlantoraX](https://github.com/Sinchu-7/PlantoraX)
+   Deep learning-based plant disease classification from images.
+
+>> [Face-X-Emotion](https://github.com/Sinchu-7/Face-X-Emotion)
+   Human emotion classification using deep learning.
+
+>> [Breast Cancer Detection](https://github.com/Sinchu-7/Breast-Cancer-Detection-ML)
+   BreakHis histopathology image classification using MobileNetV2.
 ```
 
 ```bash
