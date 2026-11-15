@@ -64,7 +64,12 @@ Full Stack Developer — Zidio Development (Aug 2026 – Oct 2026)
 
 ```bash
 > help --contact
->> GitHub: https://github.com/Sinchu-7
+
+>> GitHub: [Sinchu-7](https://github.com/Sinchu-7)
+>> LinkedIn: [sinchu-poojary](https://www.linkedin.com/in/sinchu-poojary/)
+>> Email: sinchhh09@gmail.com
+
+> echo "Let's connect and build something amazing!"
 ```
 
 ```bash
