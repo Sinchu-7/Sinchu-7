@@ -1,10 +1,10 @@
 # SINCHANA POOJARY
 
 ```bash
-> role: Full Stack Developer | AI/ML Enthusiast
-> education: Information Science & Engineering
-> interests: Artificial Intelligence, Deep Learning, RAG & Data Analytics
-> mindset: Learn. Build. Experiment. Repeat.
+> Role: Full Stack Developer | AI/ML Enthusiast
+> Education: Information Science & Engineering
+> Interests: Artificial Intelligence, Deep Learning, RAG & Data Analytics
+> Mindset: Learn. Build. Experiment. Repeat.
 ```
 
 ```bash
